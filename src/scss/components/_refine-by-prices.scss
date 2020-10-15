@@ -1,0 +1,37 @@
+.refine-by-prices {
+  ul {
+    .active {
+      font-weight: bold;
+    }
+    li:last-child {
+      display: none;
+    }
+  }
+
+  form {
+    display: flex;
+    @include mt-mb(15px, 0);
+
+    label {
+      span {
+        font-size: $font-size-prices-input;
+      }
+
+      input {
+        width: 50px;
+        @include pt-pb(2px, 2px);
+        @include pl-pr(5px, 0);
+        border-radius: 2px;
+        @include ml-mr(2px, 2px);
+        border: solid 1px $color-black;
+        font-size: $font-size-prices-input;
+      }
+    }
+
+    button {
+      @include pt-pb(4px, 4px);
+      @include pl-pr(4px, 4px);
+      border-radius: 50%;
+    }
+  }
+}

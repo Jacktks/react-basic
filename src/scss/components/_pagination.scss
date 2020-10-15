@@ -1,0 +1,22 @@
+.paginations {
+  margin-top: 10px;
+  @include ml-mr(0.5%, 0.5%);
+  background-color: $color-pagination-bg;
+
+  button {
+    cursor: pointer;
+  }
+
+  ul {
+    display: flex;
+    justify-content: center;
+
+    li {
+      @include pl-pr(8px, 8px);
+      @include pt-pb(15px, 15px);
+      font-size: 1.2em;
+      list-style-type: none;
+      cursor: pointer;
+    }
+  }
+}

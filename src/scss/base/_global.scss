@@ -1,0 +1,42 @@
+// @include font-face(verdana);
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  color: $color-primary;
+  font-family: Verdana;
+  font-size: $font-size-primary;
+}
+
+a {
+  text-decoration: none;
+}
+
+input,
+button {
+  border: none;
+  outline: none;
+}
+
+.active {
+  color: orange;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.waiting {
+  height: 500px;
+  display: grid;
+  align-items: center;
+}
+.loading {
+  width: 50px;
+  margin-left: 500px;
+  height: 50px;
+  float: center;
+}

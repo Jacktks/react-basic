@@ -1,0 +1,13 @@
+.refine-by-ratings {
+  ul {
+    li {
+      .fa-star {
+        color: $color-ratings;
+      }
+    }
+
+    .active {
+      font-weight: bold;
+    }
+  }
+}

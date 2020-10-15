@@ -1,0 +1,549 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/4863102_sb.jpg",
+      "name": "Bosch - 500 Series 24 Tall Tub Built-In Dishwasher with Stainless-Steel Tub - Stainless Steel",
+      "title": "Appliances",
+      "type": "Dishwasher",
+      "byType": "Dishwasher",
+      "brand": "Bosch",
+      "ratings": 1,
+      "price": 0.5
+    },
+    {
+      "id": 2,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5477500_sb.jpg",
+      "name": "KitchenAid - 500 Series 24 Tall Tub Built-In Dishwasher with Stainless-Steel Tub - Stainless Steel",
+      "title": "Appliances",
+      "type": "Dishwasher",
+      "byType": "Dishwasher",
+      "brand": "KitchenAid",
+      "ratings": 2,
+      "price": 50.0
+    },
+    {
+      "id": 3,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/8864055_sb.jpg",
+      "name": "KitchenAid - 500 Series 24 Tall Tub Built-In Dishwasher with Stainless-Steel Tub - Stainless Steel",
+      "title": "Appliances",
+      "type": "Dishwasher",
+      "byType": "Dishwasher",
+      "brand": "GE",
+      "ratings": 3,
+      "price": 100.0
+    },
+    {
+      "id": 4,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5723529_sb.jpg",
+      "name": "GE - 500 Series 24 Tall Tub Built-In Dishwasher with Stainless-Steel Tub - Stainless Steel",
+      "title": "Appliances",
+      "type": "Dishwasher",
+      "byType": "Dishwasher",
+      "brand": "Whirlpool",
+      "ratings": 4,
+      "price": 200.0
+    },
+    {
+      "id": 5,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5477500_sb.jpg",
+      "name": "Whirlpool - 500 Series 24 Tall Tub Built-In Dishwasher with Stainless-Steel Tub - Stainless Steel",
+      "title": "Appliances",
+      "type": "Dishwasher",
+      "byType": "Dishwasher",
+      "brand": "Frigidaire",
+      "ratings": 4,
+      "price": 1000.0
+    },
+    {
+      "id": 6,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/8864055_sb.jpg",
+      "name": "Whirlpool - 500 Series 24 Tall Tub Built-In Dishwasher with Stainless-Steel Tub - Stainless Steel",
+      "title": "Appliances",
+      "type": "Dishwasher",
+      "byType": "Dishwasher",
+      "brand": "Frigidaire",
+      "ratings": 4,
+      "price": 2000.0
+    },
+    {
+      "id": 7,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/9881868_rb.jpg",
+      "name": "Whirlpool - 500 Series 24 Tall Tub Built-In Dishwasher with Stainless-Steel Tub - Stainless Steel",
+      "title": "Appliances",
+      "type": "Dishwasher",
+      "byType": "Dishwasher",
+      "brand": "Frigidaire",
+      "ratings": 2,
+      "price": 4000.0
+    },
+    {
+      "id": 8,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/8864055_sb.jpg",
+      "name": "Whirlpool - 500 Series 24 Tall Tub Built-In Dishwasher with Stainless-Steel Tub - Stainless Steel",
+      "title": "Appliances",
+      "type": "Dishwasher",
+      "byType": "Dishwasher",
+      "brand": "Frigidaire",
+      "ratings": 3,
+      "price": 8000.0
+    },
+    {
+      "id": 9,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/7752088_sb.jpg",
+      "name": "Insignia™ - 9 Table Fan - Blue",
+      "title": "Appliances",
+      "type": "Fans",
+      "byType": "Fans",
+      "brand": "Insignia™",
+      "ratings": 1,
+      "price": 0.5
+    },
+    {
+      "id": 10,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/4816600_sb.jpg",
+      "name": "Lasko - 9 Table Fan - Blue",
+      "title": "Appliances",
+      "type": "Fans",
+      "byType": "Fans",
+      "brand": "Lasko",
+      "ratings": 2,
+      "price": 50.0
+    },
+    {
+      "id": 11,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/4744600_sb.jpg",
+      "name": "Vornado - 9 Table Fan - Blue",
+      "title": "Appliances",
+      "type": "Fans",
+      "byType": "Fans",
+      "brand": "Vornado",
+      "ratings": 3,
+      "price": 100.0
+    },
+    {
+      "id": 12,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/4744600_sb.jpg",
+      "name": "Honeywell - 9 Table Fan - Blue",
+      "title": "Appliances",
+      "type": "Fans",
+      "byType": "Fans",
+      "brand": "Honeywell",
+      "ratings": 4,
+      "price": 200.0
+    },
+    {
+      "id": 13,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/3841047_sb.jpg",
+      "name": "Hunter - 9 Table Fan - Blue",
+      "title": "Appliances",
+      "type": "Fans",
+      "byType": "Fans",
+      "brand": "Hunter",
+      "ratings": 4,
+      "price": 1000.0
+    },
+    {
+      "id": 14,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/4744600_sb.jpg",
+      "name": "Hunter - 9 Table Fan - Blue",
+      "title": "Appliances",
+      "type": "Fans",
+      "byType": "Fans",
+      "brand": "Hunter",
+      "ratings": 4,
+      "price": 2000.0
+    },
+    {
+      "id": 15,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/4845811_rb.jpg",
+      "name": "Hunter - 9 Table Fan - Blue",
+      "title": "Appliances",
+      "type": "Fans",
+      "byType": "Fans",
+      "brand": "Hunter",
+      "ratings": 4,
+      "price": 4000.0
+    },
+    {
+      "id": 16,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/4744600_sb.jpg",
+      "name": "Hunter - 9 Table Fan - Blue",
+      "title": "Appliances",
+      "type": "Fans",
+      "byType": "Fans",
+      "brand": "Hunter",
+      "ratings": 4,
+      "price": 8000.0
+    },
+    {
+      "id": 17,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5937276_rb.jpg",
+      "name": "Sennheiser - JamKast FM Transmitter - Black",
+      "title": "Audio",
+      "type": "Headphones",
+      "byType": "Headphones",
+      "brand": "Sennheiser",
+      "ratings": 1,
+      "price": 0.5
+    },
+    {
+      "id": 18,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/8732622_sb.jpg",
+      "name": "Sony - JamKast FM Transmitter - Black",
+      "title": "Audio",
+      "type": "Headphones",
+      "byType": "Headphones",
+      "brand": "Sony",
+      "ratings": 2,
+      "price": 50.0
+    },
+    {
+      "id": 19,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/6848136_sb.jpg",
+      "name": "Beats by Dr. Dre - JamKast FM Transmitter - Black",
+      "title": "Audio",
+      "type": "Headphones",
+      "byType": "Headphones",
+      "brand": "Beats by Dr. Dre",
+      "ratings": 3,
+      "price": 100.0
+    },
+    {
+      "id": 20,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/4738700_sb.jpg",
+      "name": "Skullcandy - JamKast FM Transmitter - Black",
+      "title": "Audio",
+      "type": "Headphones",
+      "byType": "Headphones",
+      "brand": "Skullcandy",
+      "ratings": 4,
+      "price": 200.0
+    },
+    {
+      "id": 21,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/4900982_sb.jpg",
+      "name": "Insignia™ - JamKast FM Transmitter - Black",
+      "title": "Audio",
+      "type": "Headphones",
+      "byType": "Headphones",
+      "brand": "Insignia™",
+      "ratings": 4,
+      "price": 1000.0
+    },
+    {
+      "id": 22,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/6848136_sb.jpg",
+      "name": "Insignia™ - JamKast FM Transmitter - Black",
+      "title": "Audio",
+      "type": "Headphones",
+      "byType": "Headphones",
+      "brand": "Insignia™",
+      "ratings": 4,
+      "price": 2000.0
+    },
+    {
+      "id": 23,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5200500_sb.jpg",
+      "name": "Insignia™ - JamKast FM Transmitter - Black",
+      "title": "Audio",
+      "type": "Headphones",
+      "byType": "Headphones",
+      "brand": "Insignia™",
+      "ratings": 4,
+      "price": 4000.0
+    },
+    {
+      "id": 24,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/9671933_sb.jpg",
+      "name": "Insignia™ - JamKast FM Transmitter - Black",
+      "title": "Audio",
+      "type": "Headphones",
+      "byType": "Headphones",
+      "brand": "Insignia™",
+      "ratings": 4,
+      "price": 8000.0
+    },
+    {
+      "id": 25,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/4875411_rb.jpg",
+      "name": "Insignia™ - Earbud Headphones - White",
+      "title": "Audio",
+      "type": "FM",
+      "byType": "FM",
+      "brand": "Insignia™",
+      "ratings": 1,
+      "price": 0.5
+    },
+    {
+      "id": 26,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/9835503_sb.jpg",
+      "name": "iSimple - Earbud Headphones - White",
+      "title": "Audio",
+      "type": "FM",
+      "byType": "FM",
+      "brand": "iSimple",
+      "ratings": 2,
+      "price": 55.0
+    },
+    {
+      "id": 27,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/1118615_sb.jpg",
+      "name": "Audiovox - Earbud Headphones - White",
+      "title": "Audio",
+      "type": "FM",
+      "byType": "FM",
+      "brand": "Audiovox",
+      "ratings": 3,
+      "price": 100.0
+    },
+    {
+      "id": 28,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/9085167_rb.jpg",
+      "name": "Scosche - Earbud Headphones - White",
+      "title": "Audio",
+      "type": "FM",
+      "byType": "FM",
+      "brand": "Scosche",
+      "ratings": 4,
+      "price": 200.0
+    },
+    {
+      "id": 29,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5490601_rb.jpg",
+      "name": "SiriusXM - Earbud Headphones - White",
+      "title": "Audio",
+      "type": "FM",
+      "byType": "FM",
+      "brand": "SiriusXM",
+      "ratings": 4,
+      "price": 1000.0
+    },
+    {
+      "id": 30,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5490615_rb.jpg",
+      "name": "SiriusXM - Earbud Headphones - White",
+      "title": "Audio",
+      "type": "FM",
+      "byType": "FM",
+      "brand": "SiriusXM",
+      "ratings": 4,
+      "price": 2000.0
+    },
+    {
+      "id": 31,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/9835503_sb.jpg",
+      "name": "SiriusXM - Earbud Headphones - White",
+      "title": "Audio",
+      "type": "FM",
+      "byType": "FM",
+      "brand": "SiriusXM",
+      "ratings": 4,
+      "price": 4000.0
+    },
+    {
+      "id": 32,
+      "name": "Nintendo - amiibo Figure (The Legend of Zelda: Breath of the Wild Series Zelda)",
+      "title": "Appliances",
+      "type": "Heaters",
+      "byType": "Heaters",
+      "brand": "Bosch",
+      "ratings": 4,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/4016012_sb.jpg",
+      "price": 15.99
+    },
+    {
+      "id": 33,
+      "name": "Nintendo - amiibo Figure (The Legend of Zelda: Breath of the Wild Series Link (Archer))",
+      "title": "Appliances",
+      "type": "Heaters",
+      "byType": "Heaters",
+      "brand": "Bosch",
+      "ratings": 3,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5414322_sb.jpg",
+      "price": 1.99
+    },
+    {
+      "id": 36,
+      "name": "Nintendo - amiibo Figure (The Legend of Zelda: Breath of the Wild Series Link (Rider))",
+      "title": "Appliances",
+      "type": "Heaters",
+      "byType": "Heaters",
+      "brand": "Bosch",
+      "ratings": 2,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/8817231_sb.jpg",
+      "price": 163.99
+    },
+    {
+      "id": 34,
+      "name": "Nintendo - amiibo Figure (The Legend of Zelda: Breath of the Wild Series Guardian)",
+      "title": "Appliances",
+      "type": "Heaters",
+      "byType": "Heaters",
+      "brand": "Bosch",
+      "ratings": 1,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/5752012_rb.jpg",
+      "price": 199
+    },
+    {
+      "id": 35,
+      "name": "Nintendo - amiibo Figure (The Legend of Zelda: Breath of the Wild Series Bokoblin)",
+      "title": "Appliances",
+      "type": "Heaters",
+      "byType": "Heaters",
+      "brand": "Bosch",
+      "ratings": 2,
+      "image": "https://cdn-demo.algolia.com/bestbuy-0118/2047936_sb.jpg",
+      "price": 1999.99
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "title": "Appliances",
+      "info": [
+        {
+          "id": 11,
+          "type": "Dishwasher",
+          "byType": "Dishwasher",
+          "info": [
+            {
+              "id": 111,
+              "brand": "Bosch"
+            },
+            {
+              "id": 112,
+              "brand": "KitchenAid"
+            },
+            {
+              "id": 113,
+              "brand": "GE"
+            },
+            {
+              "id": 114,
+              "brand": "Whirlpool"
+            },
+            {
+              "id": 115,
+              "brand": "Frigidaire"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "type": "Heaters",
+          "byType": "Heaters",
+          "info": [
+            {
+              "id": 116,
+              "brand": "Bosch"
+            },
+            {
+              "id": 117,
+              "brand": "KitchenAid"
+            },
+            {
+              "id": 118,
+              "brand": "GE"
+            },
+            {
+              "id": 119,
+              "brand": "Whirlpool"
+            },
+            {
+              "id": 120,
+              "brand": "Frigidaire"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "type": "Fans",
+          "byType": "Fans",
+          "info": [
+            {
+              "id": 121,
+              "brand": "Lasko"
+            },
+            {
+              "id": 122,
+              "brand": "Vornado"
+            },
+            {
+              "id": 123,
+              "brand": "Insignia™"
+            },
+            {
+              "id": 124,
+              "brand": "Honeywell"
+            },
+            {
+              "id": 125,
+              "brand": "Hunter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Audio",
+      "info": [
+        {
+          "id": 21,
+          "type": "Headphones",
+          "byType": "Headphones",
+          "info": [
+            {
+              "id": 211,
+              "brand": "Sennheiser"
+            },
+            {
+              "id": 212,
+              "brand": "Sony"
+            },
+            {
+              "id": 213,
+              "brand": "Beats by Dr. Dre"
+            },
+            {
+              "id": 214,
+              "brand": "Skullcandy"
+            },
+            {
+              "id": 215,
+              "brand": "Insignia™"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "type": "FM",
+          "byType": "FM",
+          "info": [
+            {
+              "id": 221,
+              "brand": "Insignia™"
+            },
+            {
+              "id": 222,
+              "brand": "iSimple"
+            },
+            {
+              "id": 223,
+              "brand": "Audiovox"
+            },
+            {
+              "id": 224,
+              "brand": "Scosche"
+            },
+            {
+              "id": 225,
+              "brand": "SiriusXM"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

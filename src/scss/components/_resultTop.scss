@@ -1,0 +1,13 @@
+.result-top {
+  display: flex;
+  justify-content: space-between;
+  @include ml-mr(0.5%, 0.5%);
+  color: $color-result-top-left;
+  font-size: 0.8em;
+
+  &__right {
+    select {
+      @include ml-mr(10px, 0);
+    }
+  }
+}

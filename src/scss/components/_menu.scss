@@ -1,0 +1,57 @@
+.menu {
+  &__clear {
+    button {
+      width: 100%;
+      @include pt-pb(5px, 5px);
+      border: 1px solid $color-primary;
+      border-radius: 5px;
+      background-color: transparent;
+      cursor: pointer;
+    }
+  }
+
+  &__result {
+    @include mt-mb(15px, 0);
+  }
+
+  &__title-1 {
+    margin: 0 0 8px;
+    color: $color-title-1;
+    font-size: $font-size-title-1;
+  }
+
+  &__title-2 {
+    margin: 10px 0;
+    font-weight: 700;
+    font-size: $font-size-title-2;
+  }
+
+  hr {
+    @include mt-mb(15px, 15px);
+  }
+
+  ul {
+    li {
+      @include mt-mb(10px, 0);
+      font-size: $font-size-menu-list;
+      list-style-type: none;
+      cursor: pointer;
+
+      .active {
+        font-weight: bold;
+      }
+
+      input {
+        @include ml-mr(0, 5px);
+      }
+
+      ul {
+        @include ml-mr(15px, 0);
+      }
+    }
+  }
+
+  &__text {
+    font-size: $font-size-menu-list;
+  }
+}
